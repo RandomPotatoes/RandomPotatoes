@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm learning Git & GitHub in an MSFT workshop
+I'm learning Git & GitHub in an MSFT workshop, Location of this workshop is virtual while the presenters are located in Peshawar.
 <!--
 **RandomPotatoes/RandomPotatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
